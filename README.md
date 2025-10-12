@@ -8,7 +8,7 @@ A Python-based text analysis tool that processes large books or documents. The p
 https://stackoverflow.com/questions/74589665/how-to-print-rgb-colour-to-the-terminal
 ```
 ```
-```\033[38;2;146;255;12mHello!\033[0m```
+\033[38;2;146;255;12mHello!\033[0m
 ^     ^ ^  ^   ^   ^   ^     ^   ^ 
 |     | |  R   G   B   |     |   |
 |     | |  |           |     |   \ Reset the colour to default
@@ -28,4 +28,3 @@ https://stackoverflow.com/questions/74589665/how-to-print-rgb-colour-to-the-term
 
 - Learned a new built-in function called Enumerate().
 - https://docs.python.org/3.14/library/functions.html#enumerate
->>>>>>> f5ad03c (Uploading everything to Github)
