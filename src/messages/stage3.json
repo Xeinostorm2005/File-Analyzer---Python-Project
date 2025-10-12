@@ -1,0 +1,27 @@
+{
+    "title": "Third Stage - View Statistics / Graphs\n",
+    "message": "Select an option:\n",
+    "invalid_option": "Invalid option, please try again.\n",
+    "options": [
+        {
+            "label": "Basic statistics",
+            "value": 1
+        },
+        {
+            "label": "Word analysis",
+            "value": 2
+        },
+        {
+            "label": "Sentence analysis",
+            "value": 3
+        },
+        {
+            "label": "Character analysis",
+            "value": 4
+        },
+        {
+            "label": "Exit",
+            "value": 0
+        }
+    ]
+}

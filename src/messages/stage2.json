@@ -1,0 +1,6 @@
+{
+    "title": "Second Stage - User inputs a file path\n",
+    "message": "Select a file to analyze: (e.g './files/file.txt' or 'C:\\Users\\User\\Desktop\\file.txt') or write Exit to exit",
+    "not_found": "File not found, please try again.",
+    "empty": "File is empty, please try again."
+}

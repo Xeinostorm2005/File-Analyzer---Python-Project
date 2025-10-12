@@ -1,0 +1,8 @@
+{
+    "title": "First Stage - Find files in the input directory\n",
+    "message": "Found these files in the input directory:\n",
+    "not_found": "No files found in the input directory.\n",
+    "empty": "File is empty, please try again.\n",
+    "select": "Select a file to analyze: (0-{length})\n",
+    "invalid_option": "Invalid option, please try again.\n"
+}
